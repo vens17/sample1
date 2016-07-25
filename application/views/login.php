@@ -1,6 +1,6 @@
 <body id="mimin" class="dashboard form-signin-wrapper">
       <div class="container">
-<?php echo form_open('login/submit','POST'); ?>
+<?php echo form_open('/submit','POST'); ?>
         <div class="form-signin" id="adminlogin_frm">
           <div class="panel periodic-login">
               <div class="alert col-md-12 col-sm-12 alert-icon alert-danger alert-dismissible fade in" id="errstatus" style="display: none;" role="alert">
