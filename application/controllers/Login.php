@@ -46,7 +46,7 @@ class Login extends CI_Controller
 
 			if ($result) {
 				$this->load->helper('url');
-				redirect(base_url().'home');
+				redirect(base_url().'home/home');
 
 			}
 			else{

@@ -24,7 +24,7 @@
                   </div>
 
                   <label class="pull-left">
-                  <input type="checkbox" class="icheck pull-left" name="checkbox1"/> Remember me
+                  <input type="checkbox" class="icheck pull-left" name="checkbox1"/> Remember Me
                   </label>
                   <input type="submit" class="btn col-md-12" value="LogIn" id="loginbtn" name="loginbtn" />
               </div>
